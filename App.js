@@ -25,6 +25,9 @@ import { NavigationEvents } from "react-navigation";
 //import { PushNotification } from 'react-native-push-notification';
 //create function that returns a stack nav ( first content is the appt cards )
 
+
+
+//Demo change
 function HomeScreen() {
   const phoneIcon = () => <Ionicons name={"call"} size={40} color={"white"} />;
 
